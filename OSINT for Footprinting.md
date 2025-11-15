@@ -21,10 +21,11 @@ host hackersploit.org
 	 this text file tells information about what endpoints are indexed or allowed for crawlling by search engines like google, duck-duckGo, bing, etc.
 
 - Crawling : Web crawling, also known as web spidering or web scraping, is a process where automated programs, called bots or spiders, systematically browse the internet to gather information from websites.
+  
+<img width="1044" height="365" alt="Pasted image 20250228144815" src="https://github.com/user-attachments/assets/84d4879e-0010-4da4-83be-e9c9c1615669" />
 
-![[Pasted image 20250228144815.png]]
+<img width="1360" height="426" alt="Pasted image 20250228145319" src="https://github.com/user-attachments/assets/86d8ccef-3fb8-46fd-aa6b-92486d1f2b00" />
 
-![[Pasted image 20250228145319.png]]
 
 - usage : 
 ```
@@ -38,26 +39,27 @@ host hackersploit.org
 ---
 ### 3.  `BuiltWith` and `Wapplayzer` 
 
-![[Pasted image 20250228145800.png]]
 
+<img width="1881" height="976" alt="Pasted image 20250228145800" src="https://github.com/user-attachments/assets/320962c9-3108-4c30-baca-5ef63b70a055" />
 
-![[Pasted image 20250228145828.png]]
+<img width="1891" height="985" alt="Pasted image 20250228145828" src="https://github.com/user-attachments/assets/fbc23684-79d6-4b2e-bd2b-1bac7739f7a3" />
+
 
 ---
 ### 4.  `Whatweb` Tool 
-
-![[Pasted image 20250228150420.png]]
 
 - usage : 
 
 ```
 whatweb hackersploit.org 
 ```
+<img width="1913" height="1071" alt="Pasted image 20250228150729" src="https://github.com/user-attachments/assets/2d3904e6-efe8-4ea1-898d-5e9d356f1c6b" />
 
 ---
 ### 5.  To Download entire website `httrack` tool.
 
-![[Pasted image 20250228150729.png]]
+<img width="1913" height="1071" alt="Pasted image 20250228150729" src="https://github.com/user-attachments/assets/a678591f-62a9-444a-89a3-099c594928e5" />
+
 
 	To install this tool in kali linux 
 
@@ -65,11 +67,11 @@ whatweb hackersploit.org
 apt install webhttrack
 ```
 
-![[Pasted image 20250228154340.png]]
+<img width="1477" height="612" alt="Pasted image 20250228154340" src="https://github.com/user-attachments/assets/55667eaf-426d-4002-bf8c-68c0e484aee7" />
 
 	 we can use to this tool to download all information about the webstite 
-
-![[Pasted image 20250228154451.png]]
+	 
+<img width="1486" height="936" alt="Pasted image 20250228154451" src="https://github.com/user-attachments/assets/32a489fb-7798-4b8f-ac48-a6af99af5bd9" />
 
 ---
 ### 6.  `Whois` Tool for gathering information about the website
@@ -92,23 +94,23 @@ Gathers Information about websites -
 - IANA ID 
 - Addresses 
 
-![[Pasted image 20250228155029.png]]
+<img width="1911" height="847" alt="Pasted image 20250228155029" src="https://github.com/user-attachments/assets/3928e380-512f-4162-a5f2-43e0e7afa374" />
 
 ---
 ### 7.  `Netcraft` Website 
 
 	- link : https://sitereport.netcraft.com/
 
-![[Pasted image 20250228160703.png]]
+<img width="868" height="685" alt="Pasted image 20250228160703" src="https://github.com/user-attachments/assets/bf0661af-e187-4002-9a8d-7c91fc301070" />
 
-![[Pasted image 20250228160724.png]]
+<img width="1856" height="836" alt="Pasted image 20250228160724" src="https://github.com/user-attachments/assets/9777efa9-967e-44fc-a535-3e8b42dc50f7" />
 
 ---
 ### 8.  `DNSrecon` tool  
 
 	- Link : https://www.kali.org/tools/dnsrecon/
 
-![[Pasted image 20250228161116.png]]
+<img width="1919" height="167" alt="Pasted image 20250228161116" src="https://github.com/user-attachments/assets/aa3596ef-f0cc-44b5-baf0-c186ca0afedd" />
 
 ```
 dnsrecon -d hackersploit.org 
@@ -444,13 +446,13 @@ amass enum -d tesla.com
 curl ipinfo.io/<IP address>
 ```
 
-![[Pasted image 20250701132510.png]]
+<img width="809" height="451" alt="Pasted image 20250701132510" src="https://github.com/user-attachments/assets/fab48561-efd4-432a-bb87-dfac26211097" />
 
 ```
 curl ip-api.com/json/<IP ADDRESS>
 ```
 
-![[Pasted image 20250701132704.png]]
+<img width="1895" height="184" alt="Pasted image 20250701132704" src="https://github.com/user-attachments/assets/5c09beb7-b06b-42ad-8e42-83d6b9dc6578" />
 
 3. OSINT - `https://osintframework.com/` Now hackers try to gather information from what they got from search engines like `shodan`
 ```powershell
@@ -519,7 +521,7 @@ NUMVERIFY_API_KEY=abc123 GOOGLE_API_KEY=xyz456 phoneinfoga scan -n +11234567890
 
 - Link - https://securityheaders.com/
 
-![[Pasted image 20250706134115.png]]
+<img width="1870" height="1057" alt="Pasted image 20250706134115" src="https://github.com/user-attachments/assets/5397a240-023f-47e7-83fd-a18fa285bb32" />
 
 ---
 ## Active Recon -
