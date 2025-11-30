@@ -12,13 +12,13 @@ Password 06 : HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 Password 07 : cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 Password 08 : UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 Password 09 : truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk 
-Password 10 :IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+Password 10 : IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
 Password 11 : 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
 Password 12 : 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
 Password 13 : 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
 Password 14 : BfMYroe26WYalil77FoDi9qh59eK5xNr
 Password 15 : cluFn7wTiGryunymYOu4RcffSxQluehd
-Password 16 :cluFn7wTiGryunymYOu4RcffSxQluehd
+Password 16 : cluFn7wTiGryunymYOu4RcffSxQluehd
 Password 17 : kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
 Password 18 : IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
 Password 19 : GbKksEFF4yrVs6il55v6gwY5aVje5f0j
@@ -34,5 +34,13 @@ Password 28 : bbc96594b4e001778eee9975372716b2
 Password 29 : 5b90576bedb2cc04c86a9e924ce42faf
 Password 30 : 47e603bb428404d265f59c42920d81e5
 Password 31 : 56a9bf19c63d650ce78e6ec0354ee45e 
-password 32 :  c9c3199ddf4121b10cf581a98d51caee
+password 32 : c9c3199ddf4121b10cf581a98d51caee
 ```
+
+** Over The Wire Bandit ** 
+- Link : https://overthewire.org/wargames/bandit/
+- Refer : https://mayadevbe.me/posts/overthewire/bandit/overview/
+
+---
+
+  
