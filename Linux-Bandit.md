@@ -36,8 +36,7 @@ Password 30 : 47e603bb428404d265f59c42920d81e5
 Password 31 : 56a9bf19c63d650ce78e6ec0354ee45e 
 password 32 : c9c3199ddf4121b10cf581a98d51caee
 ```
-
-**Over The Wire Bandit **
+`Over The Wire Bandit`
 - Link : https://overthewire.org/wargames/bandit/
 - Refer : https://mayadevbe.me/posts/overthewire/bandit/overview/
 
